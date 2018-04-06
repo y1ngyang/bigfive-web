@@ -5,7 +5,7 @@
 ###########################################################
 
 # Setting the base to nodejs 7
-FROM mhart/alpine-node:7
+FROM mhart/alpine-node:9.11.1
 
 # Maintainer
 MAINTAINER Jonas Enge
