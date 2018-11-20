@@ -66,7 +66,7 @@
     "axios": "0.18.0",
     "country-list": "1.1.0",
     "next": "4.0.0",
-    "react": "15.4.2",
+    "react": "15.6.2",
     "react-d3": "0.4.0",
     "react-dom": "15.4.2"
   }
