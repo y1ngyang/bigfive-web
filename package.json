@@ -34,7 +34,7 @@
     "coveralls": "2.12.0",
     "nsp": "3.2.1",
     "nyc": "10.1.2",
-    "standard": "9.0.2"
+    "standard": "14.0.2"
   },
   "now": {
     "alias": [
